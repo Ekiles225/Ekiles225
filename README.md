@@ -14,8 +14,11 @@
 » 💻 Programmer in Training | Student Passionate About Software Development | Exploring new technologies and creating innovative 🚀 solutions"
 
 - :computer: I am a computer engineering student and I am currently exploring javaScript
+
 - :hourglass_flowing_sand: JavaScript and Phayton
+
 - :rocket: Always ready to collaborate on development experiments
+
 - :zap: Fun fact: I love attending meetups to learn and conferences to networkNetworking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
