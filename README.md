@@ -24,11 +24,9 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ekiles225&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekiles225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <hr></hr>
 
 **Code Cycle**<br>
