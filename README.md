@@ -15,7 +15,7 @@
 
 - :computer: I am a computer engineering student and I am currently exploring javaScript
 
-- :hourglass_flowing_sand: JavaScript and Phayton
+- :hourglass_flowing_sand: JavaScript and Phyton
 
 - :rocket: Always ready to collaborate on development experiments
 
